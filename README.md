@@ -3,7 +3,7 @@
 Upload a medical report PDF, get a plain-language explanation, and ask
 follow-up questions in a chat box. No login required.
 
-## How it works (in one paragraph)
+## How it works
 
 You upload a PDF → we extract its text → an LLM (via Groq) rewrites it in
 plain language. For the chat, we split the report into small chunks,
@@ -47,4 +47,4 @@ next time you open the app.
   automatically — that's normal, it only happens once.
 - `hia.db` is created automatically in the same folder the first time you
   run the app. Delete it any time to wipe all saved history.
-- This is a learning/demo project, not medical advice software.
+
