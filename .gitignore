@@ -33,3 +33,5 @@ dist/
 .ipynb_checkpoints/
 
 PROJECT_EXPLAINED.md
+
+hia.db
