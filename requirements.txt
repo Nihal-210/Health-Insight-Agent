@@ -1,0 +1,5 @@
+streamlit
+groq
+pdfplumber
+faiss-cpu
+sentence-transformers
